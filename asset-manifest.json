@@ -1,27 +1,13 @@
 {
   "files": {
-    "main.css": "/Kanika-Portfolio-React/static/css/main.c18bfed8.css",
-    "main.js": "/Kanika-Portfolio-React/static/js/main.78d2274b.js",
-    "static/media/bgGif.gif": "/Kanika-Portfolio-React/static/media/bgGif.e7452627f2ac3d2cd864.gif",
-    "static/media/technicalDocumentation.png": "/Kanika-Portfolio-React/static/media/technicalDocumentation.ba014c42cc0b43e80f80.png",
-    "static/media/bgAbout.webp": "/Kanika-Portfolio-React/static/media/bgAbout.5f69d37f78df9ef2f56c.webp",
-    "static/media/newsApp.png": "/Kanika-Portfolio-React/static/media/newsApp.b7052464afec74d28c51.png",
-    "static/media/surveyForm.png": "/Kanika-Portfolio-React/static/media/surveyForm.04a47a714ff2e1581189.png",
-    "static/media/tributePage.png": "/Kanika-Portfolio-React/static/media/tributePage.a7781bd7c28fca50d965.png",
-    "static/media/ProductLandingPage.png": "/Kanika-Portfolio-React/static/media/ProductLandingPage.6d5ffdbc6c06c135ceaf.png",
-    "static/media/hackerMan.png": "/Kanika-Portfolio-React/static/media/hackerMan.4c4be4808bee06027155.png",
-    "static/media/stickyNavbar.png": "/Kanika-Portfolio-React/static/media/stickyNavbar.58cda607b9ad7454f0a3.png",
-    "static/media/bgImg.jpg": "/Kanika-Portfolio-React/static/media/bgImg.92a6392eefdffacf7e41.jpg",
-    "static/media/textUtils.png": "/Kanika-Portfolio-React/static/media/textUtils.e679ee8fc3c7e1ccda42.png",
-    "static/media/profile.jpg": "/Kanika-Portfolio-React/static/media/profile.514fa1f120298cf79436.jpg",
-    "static/media/stopWatch.png": "/Kanika-Portfolio-React/static/media/stopWatch.8d4d48da590167211125.png",
-    "static/media/validationForm.png": "/Kanika-Portfolio-React/static/media/validationForm.d55dc0fae25ab447a088.png",
-    "index.html": "/Kanika-Portfolio-React/index.html",
-    "main.c18bfed8.css.map": "/Kanika-Portfolio-React/static/css/main.c18bfed8.css.map",
-    "main.78d2274b.js.map": "/Kanika-Portfolio-React/static/js/main.78d2274b.js.map"
+    "main.css": "/TextUtils/static/css/main.131953b2.css",
+    "main.js": "/TextUtils/static/js/main.342466f9.js",
+    "index.html": "/TextUtils/index.html",
+    "main.131953b2.css.map": "/TextUtils/static/css/main.131953b2.css.map",
+    "main.342466f9.js.map": "/TextUtils/static/js/main.342466f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c18bfed8.css",
-    "static/js/main.78d2274b.js"
+    "static/css/main.131953b2.css",
+    "static/js/main.342466f9.js"
   ]
 }
